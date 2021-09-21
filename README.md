@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhnaveen
+- 👋 Hi, I’m Naveen Dahiya
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
